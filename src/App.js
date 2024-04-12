@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-      ajay rayudu
+      ajay
     </div>
   );
 }
